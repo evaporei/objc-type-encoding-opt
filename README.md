@@ -1,0 +1,1 @@
+# objc-type-encoding-opt
